@@ -9,6 +9,18 @@ Provides a ubuntu shell with mysql client installed.
 - Make
 
 ## Usage
+1. Clone source
+```
+$ git clone https://github.com/thackeraaron/MySQLDockerClient
+```
+
+2. cd and build
+```
+$ cd MySQLDockerClient
+$ make
+```
+
+## Docs
 To Build:
 ```
 $ make build
