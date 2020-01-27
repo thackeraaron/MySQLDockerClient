@@ -7,10 +7,16 @@ MySQL Client in Docker
 
 ## Usage
 To Build:
-- make build
+```
+$ make build
+```
 
 To Run:
-- make run
+```
+$ make run
+```
 
 To run both (Build & Run) (*default*):
-- make
+```
+$ make
+```
