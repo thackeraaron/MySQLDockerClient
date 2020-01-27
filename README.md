@@ -20,6 +20,10 @@ $ cd MySQLDockerClient
 $ make
 ```
 
+3.
+You now have a container shell with mysql installed.
+To reopen the shell, just ```cd``` into *MySQLDockerClient* and run ```make run```
+
 ## Docs
 To Build:
 ```
