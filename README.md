@@ -2,7 +2,7 @@
 MySQL Client in Docker
 Provides a ubuntu shell with mysql client installed.
 
-*accessed through ```$ mysql``` in container shell*
+*Accessed through ```$ mysql``` in container shell*
 
 ## Requirements
 - Docker
